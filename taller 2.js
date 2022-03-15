@@ -95,3 +95,4 @@ var kilometros2=prompt("ingrese en km la unidad que desea pasar a mm")
 var milimtros=kilometros2*1000000
 console.log (kilometros2+"km equivalen a "+milimtros+"mm")
 
+
